@@ -20,6 +20,6 @@ We're more than just a group of coders. We're a community. We support each other
 
 ## 📫 Get in Touch
 
-We'd love to hear from you! Feel free to reach out to us with any questions, ideas, or feedback. You can also join our community on Discord or follow us on Twitter.
+We'd love to hear from you! Feel free to reach out to us with any questions, ideas, or feedback. You can also join our community on Discord.
 
 Let's solve problems together! 🚀
